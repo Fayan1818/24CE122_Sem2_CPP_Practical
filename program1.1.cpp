@@ -66,7 +66,7 @@ int main() {
                 acc.displayBalance();
                 break;
             case 4:
-                cout << "Thank you." << endl;
+                cout << "24CE122_Fayan_Suthar" << endl;
                 break;
             default:
                 cout << "Invalid choice." << endl;
